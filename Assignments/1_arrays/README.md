@@ -2,7 +2,7 @@
 # Array Questions From LeetCode.
 
 ## Easy
-|Questions | Solution|
+|Questions | Solved |
 |-------- | --------|
 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | :heavy_check_mark: |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | :heavy_check_mark: |
@@ -17,25 +17,25 @@
 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | :x: |
 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | :x: |
 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | :heavy_check_mark: |
-| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | :x: |
+| [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | :heavy_check_mark: |
 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | :heavy_check_mark: |
 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | :heavy_check_mark: |
 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | :heavy_check_mark: |
 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | :x: |
 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | :heavy_check_mark: |
 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | :x: |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | :x: |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | :heavy_check_mark: |
 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | :x: |
-| [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | :x: |
+| [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | :heavy_check_mark: |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | :x: |
-| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | :x: |
+| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | :heavy_check_mark: |
 | [Plus One](https://leetcode.com/problems/plus-one/) | :x: |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | :x: |
 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | :x: |
 
 
 ## Medium
-|Questions | Solution |
+|Questions | Solved |
 | -------- | -------- |
 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | :x:
 [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | :x:
@@ -49,7 +49,7 @@
 [House Robber](https://leetcode.com/problems/house-robber/) | :x:
 
 ## Hard
-| Questions | Solution |
+| Questions | Solved |
 | --------- | -------- |
 [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | :x:
 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | :x:
