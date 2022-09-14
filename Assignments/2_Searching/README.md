@@ -14,11 +14,11 @@
 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | :heavy_check_mark: |
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | :heavy_check_mark: |
 [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | :heavy_check_mark: |
-[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | :x: |
+[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | :heavy_check_mark: |
 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | :x: |
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | :x: |
 [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | :x: |
-[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | :x: |
+[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | :heavy_check_mark: |
 [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | :x: |
 [Binary Search](https://leetcode.com/problems/binary-search/) | :heavy_check_mark: |
 
@@ -27,7 +27,7 @@
 | Questions | Solved |
 | --------- | ------ |
 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | :x: |
-[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | :x: |
+[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | :heavy_check_mark: |
 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | :x: |
 [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | :x: |
 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | :x: |
