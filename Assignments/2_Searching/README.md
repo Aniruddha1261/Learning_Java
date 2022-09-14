@@ -4,10 +4,10 @@
 | Questions | Solved |
 | --------- | ------ |
 [Square Root](https://leetcode.com/problems/sqrtx/) | :x: |
-[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | :x: |
+[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | :heavy_check_mark: |
 [First Bad Version](https://leetcode.com/problems/first-bad-version/) | :x: |
-[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | :x: |
-[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | :x: |
+[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | :heavy_check_mark:  |
+[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | :heavy_check_mark: |
 [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) | :x: |
 [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | :x: |
 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | :x: |
@@ -19,7 +19,7 @@
 [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | :x: |
 [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | :x: |
 [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | :x: |
-[Binary Search](https://leetcode.com/problems/binary-search/) | :x: |
+[Binary Search](https://leetcode.com/problems/binary-search/) | :heavy_check_mark: |
 
 ## Medium
 | Questions | Solved |
