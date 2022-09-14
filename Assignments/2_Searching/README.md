@@ -1,6 +1,7 @@
-# Problems on Searching :
+# Problems on Searching
 
 ## Easy
+
 | Questions | Solved |
 | --------- | ------ |
 [Square Root](https://leetcode.com/problems/sqrtx/) | :x: |
@@ -9,10 +10,10 @@
 [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | :heavy_check_mark:  |
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | :heavy_check_mark: |
 [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) | :x: |
-[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | :x: |
-[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | :x: |
-[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | :x: |
-[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | :x: |
+[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | :heavy_check_mark: |
+[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | :heavy_check_mark: |
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | :heavy_check_mark: |
+[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | :heavy_check_mark: |
 [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | :x: |
 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | :x: |
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | :x: |
@@ -22,6 +23,7 @@
 [Binary Search](https://leetcode.com/problems/binary-search/) | :heavy_check_mark: |
 
 ## Medium
+
 | Questions | Solved |
 | --------- | ------ |
 [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | :x: |
@@ -43,6 +45,7 @@
 [4 Sum](https://leetcode.com/problems/4sum/) | :x: |
 
 ## Hard
+
 | Questions | Solved |
 | --------- | ------ |
 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | :x: |

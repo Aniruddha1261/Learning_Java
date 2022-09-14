@@ -1,7 +1,8 @@
 
-# Array Questions From LeetCode.
+# Array Questions From LeetCode
 
 ## Easy
+
 |Questions | Solved |
 |-------- | --------|
 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | :heavy_check_mark: |
@@ -33,8 +34,8 @@
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | :x: |
 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | :x: |
 
-
 ## Medium
+
 |Questions | Solved |
 | -------- | -------- |
 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | :x:
@@ -49,8 +50,9 @@
 [House Robber](https://leetcode.com/problems/house-robber/) | :x:
 
 ## Hard
+
 | Questions | Solved |
 | --------- | -------- |
 [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | :x:
 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | :x:
-[Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | :x:
+[Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | :x: |
