@@ -5,17 +5,17 @@
 |Questions|Solved|
 |---------|------|
 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | :heavy_check_mark: |
-[Majority Element](https://leetcode.com/problems/majority-element/) | :x: |
-[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | :x: |
-[Missing Number](https://leetcode.com/problems/missing-number/) | :x: |
+[Majority Element](https://leetcode.com/problems/majority-element/) | :heavy_check_mark: |
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | :heavy_check_mark: |
+[Missing Number](https://leetcode.com/problems/missing-number/) | :heavy_check_mark: |
 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | :x: |
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | :x: |
 [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | :x: |
 [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | :x: |
 [Array Partition I](https://leetcode.com/problems/array-partition-i/) | :x: |
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | :x: |
-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | :x: |
-[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | :x: |
+[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | :heavy_check_mark: |
+[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | :heavy_check_mark: |
 [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | :x: |
 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | :x: |
 [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | :x: |

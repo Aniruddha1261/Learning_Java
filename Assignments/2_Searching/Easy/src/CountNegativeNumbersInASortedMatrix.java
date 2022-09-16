@@ -20,11 +20,12 @@ public class CountNegativeNumbersInASortedMatrix {
                 {1,-2,-3,-3,-3},
                 {0,-3,-3,-3,-3}
         };
+        System.out.println(countNegatives2(grid));
         System.out.println(countNegatives1(grid));
         System.out.println(countNegatives(grid));
     }
 
-    public static int countNegatives1(int[][] grid) {
+    public static int countNegatives2(int[][] grid) {
         // brute force solution
         int row = grid.length;
         int col = grid[0].length;
@@ -40,7 +41,7 @@ public class CountNegativeNumbersInASortedMatrix {
         return  (row * col) - count;
     }
 
-    public static int countNegatives(int[][] grid) {
+    public static int countNegatives1(int[][] grid) {
         int sum = 0;
         for (int i = 0; i < grid.length; i++) {
             int count = 0;
@@ -71,5 +72,11 @@ public class CountNegativeNumbersInASortedMatrix {
             sum += count;
         }
         return (grid.length * grid[0].length) - sum;
+    }
+
+    public static int countNegatives(int[][] grid) {
+        // brute force solution
+
+        return 0;
     }
 }
