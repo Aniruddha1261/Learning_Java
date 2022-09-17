@@ -17,14 +17,14 @@
 [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | :heavy_check_mark: |
 [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | :heavy_check_mark: |
 [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | :x: |
-[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | :x: |
+[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | :heavy_check_mark: |
 [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | :x: |
-[Height Checker](https://leetcode.com/problems/height-checker/) | :x: |
-[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | :x: |
+[Height Checker](https://leetcode.com/problems/height-checker/) | :heavy_check_mark: |
+[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | :heavy_check_mark: |
 [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | :x: |
 [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | :x: |
 [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | :x: |
-[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | :x: |
+[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | :heavy_check_mark: |
 [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | :x: |
 [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | :x: |
 [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | :x: |
