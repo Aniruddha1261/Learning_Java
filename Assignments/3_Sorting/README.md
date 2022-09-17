@@ -44,7 +44,7 @@
 [4Sum](https://leetcode.com/problems/4sum/) | :x: |
 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | :x: |
 [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | :x: |
-[Sort Colors](https://leetcode.com/problems/sort-colors/) | :x: |
+[Sort Colors](https://leetcode.com/problems/sort-colors/) | :heavy_check_mark: |
 [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | :x: |
 [Sort List](https://leetcode.com/problems/sort-list/) | :x: |
 [Largest Number](https://leetcode.com/problems/largest-number/) | :x: |
