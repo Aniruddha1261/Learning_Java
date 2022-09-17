@@ -31,9 +31,9 @@
 [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | :x: |
 [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | :x: |
 [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | :x: |
-[Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :x: |
+[Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | :heavy_check_mark: |
 [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | :x: |
-[2Sum](https://leetcode.com/problems/two-sum/) | :x: |
+[2Sum](https://leetcode.com/problems/two-sum/) | :heavy_check_mark: |
 
 ## Medium
 
