@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3_Sorting/3_Sorting.iml" filepath="$PROJECT_DIR$/3_Sorting/3_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code.iml" filepath="$PROJECT_DIR$/.idea/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Recursion/Recursion_01/Recursion_01.iml" filepath="$PROJECT_DIR$/5_Recursion/Recursion_01/Recursion_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Recursion/Recursion_02_arrays/Recursion_02_arrays.iml" filepath="$PROJECT_DIR$/5_Recursion/Recursion_02_arrays/Recursion_02_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Recursion/Recursion_03_Sorting/Recursion_03_Sorting.iml" filepath="$PROJECT_DIR$/5_Recursion/Recursion_03_Sorting/Recursion_03_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Recursion/Recursion_04_Subset_Subsequence_StringQuestions/Recursion_04_Subset_Subsequence_StringQuestions.iml" filepath="$PROJECT_DIR$/5_Recursion/Recursion_04_Subset_Subsequence_StringQuestions/Recursion_04_Subset_Subsequence_StringQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Recursion/Recursion_05/Recursion_05.iml" filepath="$PROJECT_DIR$/5_Recursion/Recursion_05/Recursion_05.iml" />
+    </modules>
+  </component>
+</project>
