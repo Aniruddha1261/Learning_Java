@@ -1,6 +1,6 @@
-package com.annu.introduction;
+package com.annu.O1introduction;
 
-public class WrapperExamples {
+public class Lec1_WrapperExamples {
     public static void main(String[] args) {
         //Integer num = new Integer(45);
         Integer num1 = 45;

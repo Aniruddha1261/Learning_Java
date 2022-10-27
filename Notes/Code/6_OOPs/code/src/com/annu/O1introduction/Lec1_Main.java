@@ -1,8 +1,6 @@
-package com.annu.introduction;
+package com.annu.O1introduction;
 
-import java.util.Arrays;
-
-public class Main {
+public class Lec1_Main {
     public static void main(String[] args) {
         // store 5 roll nos
         int[] numbers = new int[5];
