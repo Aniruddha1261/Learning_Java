@@ -1,9 +1,16 @@
 package com.annu.O3Properties.Inheritance;
 
+// when you use "final" in-front of the class it cannot be inherited
+// thence, all the methods inside the class will be also final as the class is final itself
+//public class final Box {
 public class Box {
     double l;
     double h;
     double w;
+
+    static void greetings(){
+        System.out.println("Hey, I am in Box. Greetings!");
+    }
 
     Box() {
         this.l = -1;

@@ -3,6 +3,15 @@ package com.annu.O3Properties.Inheritance;
 public class BoxWeight extends Box {
     double weight;
 
+
+// you cannot override the static methods,
+// static methods can be inherited but cannot be over-ridden
+// overriding depends on objects, static stuff does not depend on objects, hence you can't override static methods.
+//    @Override // you cannot override it
+//    static void greetings(){
+//        System.out.println("Hey, I am in BoxWeight. Greetings!");
+//    }
+
     public BoxWeight() {
         this.weight = -1;
     }
