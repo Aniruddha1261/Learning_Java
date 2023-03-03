@@ -1,6 +1,6 @@
-package com.annu.O4.demo;
+package com.annu.O4AccessControl_InBuildPackages_ObjectClass.demo;
 
-import com.annu.O4.access_controls.A;
+import com.annu.O4AccessControl_InBuildPackages_ObjectClass.access_controls.A;
 
 public class Subclass extends A {
     public Subclass(int num, String name) {
