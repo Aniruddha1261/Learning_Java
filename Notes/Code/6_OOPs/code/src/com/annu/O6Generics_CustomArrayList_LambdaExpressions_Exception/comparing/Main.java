@@ -1,8 +1,6 @@
 package com.annu.O6Generics_CustomArrayList_LambdaExpressions_Exception.comparing;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class Main {
 

@@ -5,7 +5,7 @@ import java.lang.constant.Constable;
 import java.util.ArrayList;
 import java.util.function.Consumer;
 
-// Lambda function is nothing but a inline function or one line function
+// Lambda function is nothing but inline function or one line function
 public class LambdaFunctions {
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
