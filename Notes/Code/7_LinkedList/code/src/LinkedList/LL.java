@@ -1,7 +1,7 @@
 
 
 public class LL {
-
+    // Singly Linked List
     private Node head;
     private Node tail;
 
