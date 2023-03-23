@@ -134,4 +134,41 @@ public class LL {
             this.next = next;
         }
     }
+
+
+    // Questions:
+
+    //Q1: Insert using recursion
+    public void insertRecursion(int val, int index){
+        head = insertRecursion(val, index, head);
+    }
+
+    private Node insertRecursion(int val, int index, Node node){
+        if (index == 0){
+            Node temp = new Node(val, node);
+            size++;
+            return temp;
+        }
+
+        node.next = insertRecursion(val, index - 1, node.next);
+        return node;
+    }
+
+        //Q2: Remove Duplicates
+
+    public void duplicates(){
+        Node node = head;
+
+        while (node.next != null){
+            if (node.value == node.next.value){
+                node.next = node.next.next;
+                size--;
+            }
+            else {
+                node = node.next;
+            }
+        }
+        tail = node;
+        tail.next = null;
+    }
 }
