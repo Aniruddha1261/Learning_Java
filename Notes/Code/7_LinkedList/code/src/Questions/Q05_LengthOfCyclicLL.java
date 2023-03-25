@@ -1,11 +1,11 @@
 package Questions;
 // Q5: Find the length of the cycle
 // Amazon and Microsoft Questions
-public class Q5 {
+public class Q05_LengthOfCyclicLL {
     private class ListNode{
 
         private int val;
-        private Q5.ListNode next;
+        private Q05_LengthOfCyclicLL.ListNode next;
 
         public ListNode(int val) {
             this.val = val;
@@ -19,9 +19,9 @@ public class Q5 {
     }
 
     // Find length of LL Cycle
-    public int LengthCycle(Q5.ListNode head) {
-        Q5.ListNode fast = head;
-        Q5.ListNode slow = head;
+    public int LengthCycle(Q05_LengthOfCyclicLL.ListNode head) {
+        Q05_LengthOfCyclicLL.ListNode fast = head;
+        Q05_LengthOfCyclicLL.ListNode slow = head;
 
         while (fast != null && fast.next != null){
             fast = fast.next.next;

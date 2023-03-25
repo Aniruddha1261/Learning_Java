@@ -2,7 +2,7 @@ package Questions;
 //Q3: https://leetcode.com/problems/merge-two-sorted-lists/
 import LinkedList.LL;
 
-public class Q3 {
+public class Q03_MergeSortedLists {
     public static void main(String[] args) {
         LinkedList.LL list1 = new LinkedList.LL();
         list1.insertLast(1);

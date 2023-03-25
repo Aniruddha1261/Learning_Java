@@ -1,6 +1,6 @@
 package Questions;
 
-public class Q1 {
+public class Q01_InsertUsingRecursion {
 
     public static void main(String[] args) {
         LinkedList.LL list = new LinkedList.LL();

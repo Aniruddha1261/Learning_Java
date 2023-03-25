@@ -1,9 +1,7 @@
 package Questions;
 
-import LinkedList.LL;
-
 // Q4: https://leetcode.com/problems/linked-list-cycle/
-public class Q4 {
+public class Q04_HasCyclicLL {
     /**
      * Definition for singly-linked list.
      * class ListNode {
