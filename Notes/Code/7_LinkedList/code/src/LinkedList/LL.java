@@ -10,6 +10,7 @@ public class LL {
         this.size = 0;
     }
 
+
     public void insertFirst(int val){
         Node node = new Node(val);
         node.next = head;
@@ -120,10 +121,16 @@ public class LL {
     }
 
 
-    private class Node{
+    public class Node{
 
-        private int value;
-        private Node next;
+        @Override
+        public String toString() {
+            return "Node{" + value +
+                    '}';
+        }
+
+        public int value;
+        public Node next;
 
         public Node(int value) {
             this.value = value;
@@ -235,6 +242,44 @@ public class LL {
         }
         else {
             bubbleSort(row - 1, 0);
+        }
+    }
+
+
+    // Q10: Reversing a Linked List
+    // **  Using Recursion
+    public void recReverse(Node node){
+        if (node == tail){
+            head = tail;
+            return;
+        }
+
+        recReverse(node.next);
+        tail.next = node;
+        tail = node;
+        tail.next = null;
+    }
+
+    // Q11: Reverse Linked List Using Iterative Method
+    // ** InPlace Reversal of Linked List
+    // Google, Microsoft, apple, amazon: https://leetcode.com/problems/reverse-linked-list/
+    public void ipreverse(){
+        if (size < 2){
+            return;
+        }
+
+        Node prev = null;
+        Node present = head;
+        Node next = present.next;
+
+        while (present != null){
+            present.next = prev;
+            prev = present;
+            present = next;
+            if (next != null){
+                next = next.next;
+            }
+            head = prev;
         }
     }
 }
