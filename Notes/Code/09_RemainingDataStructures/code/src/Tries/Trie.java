@@ -12,10 +12,10 @@ public class Trie {
         System.out.println(search("an"));
     }
 
-    static Node root = new Node();
-    static class Node{
-        Node[] children;
-        boolean endOfWord;
+    public static Node root = new Node();
+    public static class Node{
+        public Node[] children;
+        public boolean endOfWord;
 
         public Node() {
             children = new Node[26];
