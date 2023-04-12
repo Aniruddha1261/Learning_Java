@@ -8,6 +8,58 @@ public class TarjansAlgorithm {
         ArrayList<Graph.Edge>[] graph = new ArrayList[V];
         createGraph(graph);
         getBridge(graph, V);
+        getAP(graph, V);
+    }
+
+
+    // Finding Articulation point
+    public static void getAP(ArrayList<Graph.Edge>[] graph, int V){
+        int[] dt = new int[V];
+        int[] lowDT = new int[V];
+        int time = 0;
+        boolean[] vis = new boolean[V];
+        boolean[] ap = new boolean[V]; // track articulation point
+
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]){
+                dfs2(graph, i, vis, dt, lowDT, time, -1, ap);
+            }
+        }
+
+        for (int i = 0; i < V; i++) {
+            if (ap[i]){
+                System.out.println("AP : " + i);
+            }
+        }
+        System.out.println();
+    }
+
+    public static void dfs2(ArrayList<Graph.Edge>[] graph, int curr, boolean[] vis, int[] dt, int[] lowDT, int time, int parent, boolean[] ap){
+        vis[curr] = true;
+        dt[curr] = lowDT[curr] = ++time;
+        int children = 0;
+
+        for (int i = 0; i < graph[curr].size(); i++) {
+            Graph.Edge e = graph[curr].get(i);
+            int neighbour = e.dest;
+
+            if (parent == neighbour){
+                continue;
+            } else if (vis[neighbour]){
+                lowDT[curr] = Math.min(lowDT[curr], dt[neighbour]);
+            } else {
+                dfs2(graph, neighbour, vis, dt, lowDT, time, curr, ap);
+                lowDT[curr] = Math.min(lowDT[curr], lowDT[neighbour]);
+                if (dt[curr] <= lowDT[neighbour] && parent != -1){
+                    ap[curr] = true;
+                }
+                children++;
+            }
+        }
+
+        if (parent == -1 && children >1){
+            ap[curr] = true;
+        }
     }
 
     public static void dfs(ArrayList<Graph.Edge>[] graph, int curr, boolean[] vis, int[] dt, int[] lowDT, int time, int parent){
