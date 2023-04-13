@@ -13,6 +13,8 @@ public class TarjansAlgorithm {
 
 
     // Finding Articulation point
+    // A vertex is an undirected connected graph in an articulation point (or cut vertex)
+    // if removing it (and edges through it) disconnects graph
     public static void getAP(ArrayList<Graph.Edge>[] graph, int V){
         int[] dt = new int[V];
         int[] lowDT = new int[V];
@@ -62,6 +64,22 @@ public class TarjansAlgorithm {
         }
     }
 
+
+    // Bridges in Graph
+    // Bridge is an edge whose deletion increases the graph's number of connected components.
+    public static void getBridge(ArrayList<Graph.Edge>[] graph, int V){
+        int[] dt = new int[V];
+        int[] lowDT = new int[V];
+        int time = 0;
+        boolean[] vis = new boolean[V];
+
+        for (int i = 0; i < V; i++) {
+            if (!vis[i]){
+                dfs(graph, i, vis, dt, lowDT, time, -1);
+            }
+        }
+    }
+
     public static void dfs(ArrayList<Graph.Edge>[] graph, int curr, boolean[] vis, int[] dt, int[] lowDT, int time, int parent){
         vis[curr] = true;
         dt[curr] = lowDT[curr] = ++time;
@@ -78,19 +96,6 @@ public class TarjansAlgorithm {
                 }
             } else {
                 lowDT[curr] = Math.min(lowDT[curr], dt[e.dest]);
-            }
-        }
-    }
-
-    public static void getBridge(ArrayList<Graph.Edge>[] graph, int V){
-        int[] dt = new int[V];
-        int[] lowDT = new int[V];
-        int time = 0;
-        boolean[] vis = new boolean[V];
-
-        for (int i = 0; i < V; i++) {
-            if (!vis[i]){
-                dfs(graph, i, vis, dt, lowDT, time, -1);
             }
         }
     }

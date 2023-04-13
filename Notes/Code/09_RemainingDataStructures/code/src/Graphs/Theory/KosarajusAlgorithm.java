@@ -5,15 +5,18 @@ import java.util.Stack;
 
 public class KosarajusAlgorithm {
 
+    // Strongly Connected components(SCC)
+    // SCC is a component in which we can reach every vertex of the component from every other vertex in that component
+
     public static void main(String[] args) {
         int V = 5;
         ArrayList<Graph.Edge>[] graph = new ArrayList[V];
         createGraph(graph);
         kosarajuAlgo(graph, V);
     }
-
     public static void kosarajuAlgo(ArrayList<Graph.Edge>[] graph, int V){
         // Step 1   -   O(V+E)
+        // Get your nodes in stack (Topological Sort)
         Stack<Integer> s = new Stack<>();
         boolean[] vis = new boolean[V];
         for (int i = 0; i < V; i++) {
@@ -23,6 +26,7 @@ public class KosarajusAlgorithm {
         }
 
         // Step 2   -  O(V+E)
+        // Transpose the graph
         ArrayList<Graph.Edge>[] transpose = new ArrayList[V];
         for (int i = 0; i < V; i++) {
             transpose[i] = new ArrayList<Graph.Edge>();
@@ -37,6 +41,7 @@ public class KosarajusAlgorithm {
         }
 
         // Step 3   -   O(V+E)
+        // Do DFS according to stack nodes on the transpose graph
         while (!s.isEmpty()){
             int curr = s.pop();
             if (!vis[curr]){
