@@ -20,14 +20,13 @@ public class Lec1_Main {
         Student[] students = new Student[5];
 //        System.out.println(Arrays.toString(students));
 
-        Student annu;
-        annu = new Student();
+        Student annu = new Student();
 //        Student annu = new Student();
         annu.rno = 17;
         annu.name = "Aniruddha Thakre";
         annu.marks = 82.0f;
-//        System.out.println(annu);
-//        System.out.println(annu.rno);
+        System.out.println(annu);
+        System.out.println(annu.rno);
 //        System.out.println(annu.name);
 //        System.out.println(annu.marks);
 //

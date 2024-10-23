@@ -34,6 +34,12 @@ public class LL {
         size++;
     }
 
+    @Override
+    public String toString() {
+        return
+                 head + " -> ";
+    }
+
     public void insert(int val, int index){
         if (index == 0){
             insertFirst(val);

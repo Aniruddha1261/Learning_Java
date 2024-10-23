@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9382985d-03b8-41f8-bfef-d25b2f5b3cc1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/5_Recursion/Recursion_01/Recursion_01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Recursion/Recursion_02_arrays/Recursion_02_arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Recursion/Recursion_03_Sorting/Recursion_03_Sorting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Recursion/Recursion_04_Subset_Subsequence_StringQuestions/Recursion_04_Subset_Subsequence_StringQuestions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O1introduction/Lec1_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O1introduction/Lec1_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O1introduction/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O1introduction/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O7CollectionsFramework_VectorClass_Enums/enumExamples/Basic$Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O7CollectionsFramework_VectorClass_Enums/enumExamples/Basic$Week.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O7CollectionsFramework_VectorClass_Enums/enumExamples/Basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/out/production/code/com/annu/O7CollectionsFramework_VectorClass_Enums/enumExamples/Basic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_OOPs/code/src/com/annu/O1introduction/Lec1_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_OOPs/code/src/com/annu/O1introduction/Lec1_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_LinkedList/code/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/07_LinkedList/code/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/LinkedList/LL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/LinkedList/LL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/LinkedList/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/LinkedList/LL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/Questions/Q15_ReverseLL_In_K_Groups.class" beforeDir="false" afterPath="$PROJECT_DIR$/07_LinkedList/code/out/production/code/Questions/Q15_ReverseLL_In_K_Groups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_LinkedList/code/src/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_LinkedList/code/src/LinkedList/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_RemainingDataStructures/code/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/09_RemainingDataStructures/code/.idea/.name" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java/JAVA Code/Learning_Java/Notes/Code"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/JAVA Code/Learning_Java/Notes/Code&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
